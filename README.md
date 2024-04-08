@@ -1,2 +1,2 @@
-# Calculate_table
+Multiplication_table
 basic code
